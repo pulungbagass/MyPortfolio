@@ -1,3 +1,6 @@
+// UNUSED FEATURE (Modal - Testimonials)
+// Akan dipakai untuk future feature (popup project / preview) #about line 105
+
 function initModal() {
   const items = document.querySelectorAll("[data-testimonials-item]");
   const modal = document.querySelector("[data-modal-container]");
