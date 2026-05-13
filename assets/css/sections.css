@@ -159,7 +159,7 @@
 
 .clients-item {
   min-width: 50%;
-  scroll-snap-align: start;
+  scroll-snap-align: center;
 }
 
 .clients-item img {
@@ -248,6 +248,18 @@
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
+}
+
+.working {
+  color: var(--light-gray);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+}
+
+.task-list {
+  margin-left: 20px;
+  /* margin-top: 10px; */
+  
 }
 
 /**

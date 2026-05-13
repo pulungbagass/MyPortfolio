@@ -24,6 +24,10 @@
   .blog-banner-box {
     height: auto;
   }
+
+  hr {
+    width: 20%;
+  }
 }
 
 /**
@@ -349,6 +353,10 @@
   .form-btn ion-icon {
     font-size: 18px;
   }
+
+  hr {
+    width: 30%;
+  }
 }
 
 /**
@@ -454,6 +462,10 @@
   .form-btn {
     width: max-content;
     margin-left: auto;
+  }
+
+  hr {
+    width: 50%;
   }
 }
 
