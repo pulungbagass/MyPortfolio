@@ -1,76 +1,111 @@
-# 🚀 Bagas Portfolio
+# Hi, I'm Pulung Bagas Setiawan 👋
 
-Personal portfolio website yang gue bangun buat nunjukin siapa gue, apa yang gue bisa, dan project-project yang gue kerjain.  
-Simple, clean, tapi tetap fleksibel buat dikembangin.
+### Multidisciplinary Developer • Creative Technologist • Content Creator
 
----
+Saya adalah individu yang memiliki minat besar pada bidang teknologi kreatif, pengembangan digital, multimedia, dan software development.  
+Berpengalaman dalam produksi video, editing visual, pengelolaan data, hingga pengembangan website berbasis Laravel untuk kebutuhan organisasi maupun klien.
 
-## 🌟 Tentang Gue
-
-Halo, gue **Bagas Setiawan**.  
-Seorang **Full Stack Developer** yang suka ngulik teknologi dan bikin solusi dari ide sederhana jadi sesuatu yang real.
-
-Gue juga:
-- 🎬 Suka dunia video & editing  
-- 💻 Ngoding buat solve problem (bukan sekadar gaya)  
-- ⚡ Seneng eksplor hal baru di dunia IT  
+Selain aktif mengembangkan kemampuan di bidang pemrograman dan multimedia, saya juga sering mengerjakan berbagai proyek personal sebagai sarana eksplorasi teknologi dan implementasi ide secara nyata.
 
 ---
 
-## 💡 Tentang Project Ini
+## 🚀 About Me
 
-Ini bukan sekadar template portfolio biasa.
-
-Project ini gue bikin dengan konsep:
-- 🧩 Struktur modular (component-based)
-- 🔄 Routing sederhana (SPA tanpa reload)
-- 🎯 Code lebih rapi & scalable
-- 📱 Fully responsive
-
-Intinya:
-> gak cuma tampil bagus, tapi juga punya struktur yang proper
+- 🎓 Mahasiswa Teknik Informatika — Universitas Sains Teknologi dan Komputer
+- 🏆 Lulusan Terbaik — SMK Negeri 10 Semarang
+- 💡 Tertarik pada teknologi kreatif, software development, dan embedded system
+- 🎬 Memiliki pengalaman dalam produksi video dan content creation
+- 🌱 Aktif mengikuti seminar dan workshop teknologi
+- 🧠 Suka membangun solusi digital yang fungsional dan efisien
 
 ---
 
-## 🖥️ Preview
+## 💼 Experience
 
-### Desktop
-![Desktop Preview](./website-demo-image/desktop.png)
+### Full Stack Developer
+**KKO PAUD Kota Semarang**
 
-### Mobile
-![Mobile Preview](./website-demo-image/mobile.png)
-
----
-
-## 🚀 Cara Jalanin
-
-Gampang banget:
-
-```bash
-git clone <repo-kamu>
-```
-
-Lalu:
-- buka folder project
-- jalanin pakai **Live Server** (recommended)
-- atau buka langsung di browser
+- Mengembangkan website berbasis Laravel Blade PHP
+- Merancang dan mengimplementasikan fitur sesuai kebutuhan klien
+- Melakukan debugging dan pengujian sistem
+- Berkomunikasi langsung dengan client untuk analisis kebutuhan
 
 ---
 
-## 📬 Kontak
+### Content Creator
+**SMK Negeri 10 Semarang**
 
-Kalau mau ngobrol, collab, atau sekadar connect:
-
-- Instagram: https://www.instagram.com/
-- Twitter / X: https://x.com/
-- Email: pulungbagas036@gmail.com
-
----
-
-## 📄 License
-
-MIT License
+- Produksi video promosi sekolah
+- Editing video menggunakan Adobe Premiere Pro
+- Membuat konten edukasi dan media sosial
+- Shooting, scripting, dan publishing content
 
 ---
 
-⭐ Kalau project ini membantu atau lo suka, feel free kasih star.
+### Staff Data Management
+
+- Pengelolaan dan pengarsipan data
+- Penyortiran dokumen berdasarkan kategori
+- Menjaga kualitas dan struktur data
+
+---
+
+## 🛠 Tech Stack
+
+### Programming & Development
+
+- PHP Laravel
+- HTML, CSS, JavaScript
+- C++
+- Java
+- ESP32 / Embedded System
+- Web Security
+
+### Creative & Multimedia
+
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Content Production
+- Photography
+- Visual Editing
+
+### Productivity
+
+- Microsoft Office
+- Prompt Engineering
+- Research & Workflow Optimization
+
+---
+
+## 🧠 Soft Skills
+
+- Communication
+- Teamwork
+- Problem Solving
+- Adaptability
+- Critical Thinking
+- Creativity
+- Curiosity & Continuous Learning
+
+---
+
+## 📌 Current Interest
+
+Saat ini saya sedang tertarik mendalami:
+
+- Embedded System & IoT
+- Interactive UI/UX
+- AI Workflow & Prompt Engineering
+- Fullstack Web Development
+- Creative Technology
+
+---
+
+## 📫 Contact
+
+- 📧 Email : pulungbagas036@gmail.com
+- 📍 Semarang, Indonesia
+
+---
+
+> “Technology is not only about logic, but also about creating meaningful experiences.”
