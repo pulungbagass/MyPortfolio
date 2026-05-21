@@ -1,8 +1,8 @@
 const routes = {
   "#/": "./pages/about.html",
   "#/resume": "./pages/resume.html",
-  "#/portfolio": "./pages/portfolio.html",
-  "#/blog": "./pages/blog.html",
+  "#/portfolio": "./pages/comingson.html",
+  "#/blog": "./pages/comingson.html",
   "#/contact": "./pages/contact.html",
 };
 
